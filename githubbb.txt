@@ -1,0 +1,13 @@
+#include <iostream.h>
+#include <conio.h>
+
+void main()
+{
+int p,q,area,perimeter;
+p=4;
+q=6;
+area=p*q;
+perimeter=2*(p+q);
+cout<<"\n area = "<<area;
+cout<<"\n perimeter ="<<perimeter;
+}
